@@ -43,17 +43,17 @@ public class Error {
     INVALID_REQUEST("invalid-request"),
     
     INVALID_APPLICATION("invalid-application"),
-
+    
     INVALID_FEED_CONNECTION("invalid-feed-connection"),
-
+    
     DUPLICATE_STATEMENT("duplicate-statement"),
-
+    
     INVALID_END_BALANCE("invalid-end-balance"),
-
+    
     INVALID_START_AND_END_DATE("invalid-start-and-end-date"),
-
+    
     INVALID_START_DATE("invalid-start-date"),
-
+    
     INTERNAL_ERROR("internal-error");
 
     private String value;
